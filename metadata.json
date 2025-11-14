@@ -1,0 +1,5 @@
+{
+  "name": "AI DICOM Image Processor",
+  "description": "An advanced web application to upload and analyze medical images (simulated DICOM). It uses computational vision and OCR via the Gemini API to extract clinical context and metadata, then visualizes the relationships as a knowledge graph, simulating a Neo4j database structure.",
+  "requestFramePermissions": []
+}
